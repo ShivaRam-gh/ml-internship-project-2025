@@ -1,0 +1,1 @@
+In asl_detection project before running asl_test.py, first run download_from_drive.py file to get .pkl file that required for project then run asl_test.py.
